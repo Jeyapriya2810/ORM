@@ -37,7 +37,8 @@ class EmployeeAdmin(admin.ModelAdmin): list_display=('eid','name','salary','age'
 
 
 ## OUTPUT
-![Alt text](<Screenshot from 2023-12-11 20-37-15.png>)
+![Screenshot 2025-05-07 112355](https://github.com/user-attachments/assets/4c38d9e3-5926-407f-9449-2f7408553741)
+
 
 
 ## RESULT
