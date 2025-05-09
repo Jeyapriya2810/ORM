@@ -1,5 +1,6 @@
 # Ex02 Django ORM Web Application
-## Date: 
+## Date: 28/04/2025
+## Name:JEYAPRIYA.J Reg no:212224100027
 
 ## AIM
 To develop a Django application to store and retrieve data from a Movies Database using Object Relational Mapping(ORM).
